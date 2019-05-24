@@ -1,5 +1,7 @@
 # Stremio Open Music Add-on
 
+**THIS ADD-ON HAS NOW BEEN PORTED TO [PimpMyStremio](https://www.reddit.com/r/StremioAddons/comments/bsgvjt/news_pimpmystremio_release_a_local_addon_manager/) AND MOVED TO [A NEW REPOSITORY](https://github.com/BoredLama/stremio-open-music-local) FOR THIS PURPOSE, PLEASE USE PimpMyStremio AND INSTALL THIS ADD-ON FROM INSIDE THE APP**
+
 Search for music streams on Open Directories from Google searches.
 
 **This Add-on requires Stremio v4.4.10+**
